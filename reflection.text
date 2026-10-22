@@ -1,0 +1,13 @@
+My solution was pretty similar to Paul's overall,
+especially in the loopless exercises. We used almost the same
+approach for find_all_in_role and build_credits (just with
+slightly different methods).
+
+One difference I noticed was in list_movies. Paul used
+map(&:movie) and then uniq, while I used uniq with a block
+to remove duplicates. I think his approach is cleaner and
+easier to follow.
+
+For the desugaring exercises, I realized that I misunderstood
+the implicit parentheses part. I removed the parentheses from
+mail, while Paul explicitly added them to method calls.
