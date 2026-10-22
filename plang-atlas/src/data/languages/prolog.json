@@ -1,0 +1,11 @@
+{
+  "name": "Prolog",
+  "tags": ["logic"],
+  "links": [
+    {
+      "title": "Official home page",
+      "url": "https://www.swi-prolog.org/"
+    }
+  ],
+  "description": "Prolog is a logic programming language that uses facts and rules to solve problems through logical reasoning."
+}

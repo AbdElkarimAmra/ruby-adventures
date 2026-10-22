@@ -45,6 +45,10 @@ end
           <% end %>
         </ul>
       <% end %>
+
+      <button style="margin-bottom: 24px" id="descriptionButton" onClick="this.innerText = '<%= lang.description %>'"> Click to view the description for <%=lang.name%>  </button>
+      </br>
+      <button onClick="document.getElementById('descriptionButton').innerText ='Click to view the description for <%=lang.name%>' "> Click to reset the button above<%=lang.name%>  </button>
     </main>
   </body>
 </html>

@@ -10,5 +10,9 @@
   "oop": {
     "name": "Object-oriented",
     "about": "https://en.wikipedia.org/wiki/Object-oriented_programming"
-  }
+  },
+  "logic": {
+  "name": "Logic programming",
+  "about": "https://en.wikipedia.org/wiki/Logic_programming"
+}
 }

@@ -4,7 +4,7 @@
   <%= partial "_page_head", page_title: nil %>
 
   <body>
-    <h1>Atlas of Programming Languages</h1>
+    <h1>Atlas of Programming</h1>
 
     <h2>Tags</h2>
     <ul>
